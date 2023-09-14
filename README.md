@@ -1,2 +1,0 @@
-# webpit
-Performative servers project
